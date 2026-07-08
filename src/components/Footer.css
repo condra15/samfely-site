@@ -1,0 +1,17 @@
+.footer { padding: 56px 0 0; background: var(--wb-bg-alt); border-top: 1px solid rgba(0,0,0,0.06); }
+.footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; }
+.footer-logo-wrap { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.footer-logo-img { width: 52px; height: 52px; border-radius: 6px; object-fit: contain; }
+.footer-logo { font-family: var(--font-chalk); font-size: 32px; font-weight: 700; color: var(--wb-text); display: block; }
+.footer-tagline { font-family: var(--font-hand); font-size: 16px; color: var(--wb-text-sub); margin-bottom: 12px; }
+.footer-address { font-size: 14px; color: var(--wb-text-dim); }
+.footer-col-title { font-family: var(--font-hand); font-size: 16px; color: var(--wb-text); margin-bottom: 12px; }
+.footer-link { display: block; font-size: 14px; color: var(--wb-text-sub); padding: 4px 0; transition: color 0.2s; text-decoration: none; }
+.footer-link:hover { color: var(--c-blue); }
+.footer-volunteer-link { color: var(--c-teal); }
+.footer-volunteer-link:hover { color: #2bb5b8; }
+.footer-enrollment-link { color: var(--c-pink); }
+.footer-enrollment-link:hover { color: #2cb1d3; }
+.footer-bottom { margin-top: 40px; padding: 20px 0; border-top: 1px solid rgba(0,0,0,0.06); text-align: center; }
+.footer-bottom p { font-size: 13px; color: var(--wb-text-dim); }
+@media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 32px; } }

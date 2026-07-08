@@ -1,0 +1,27 @@
+.contact-hero { padding: 64px 0; text-align: center; overflow: hidden; }
+.contact-hero-content { position: relative; z-index: 1; }
+.contact-title { font-size: clamp(36px, 7vw, 50px); color: var(--wb-text); margin-bottom: 12px; }
+.contact-subtitle { font-size: 18px; color: var(--wb-text-sub); max-width: 520px; margin: 0 auto; }
+.contact-main { padding: 56px 0 72px; }
+.contact-grid { display: grid; grid-template-columns: 1fr 1.4fr; gap: 48px; align-items: start; }
+.contact-block { margin-bottom: 28px; }
+.contact-block-title { font-size: 20px; margin-bottom: 8px; }
+.contact-link { display: block; font-size: 16px; color: var(--wb-text-sub); padding: 3px 0; transition: color 0.2s; text-decoration: none; }
+.contact-link:hover { color: var(--c-blue); }
+.contact-address { font-size: 16px; color: var(--wb-text-sub); line-height: 1.6; }
+.contact-map { margin-top: 8px; }
+.contact-form-wrap { padding: 32px; border: 2px dashed var(--wb-border-dashed); border-radius: 16px; }
+.contact-form-title { font-size: 40px; margin-bottom: 8px; }
+.contact-form-desc { font-size: 18px; color: var(--wb-text-sub); margin-bottom: 24px; line-height: 1.6; }
+.google-form-embed { border-radius: 12px; overflow: hidden; }
+@media (max-width: 768px) {
+  .contact-grid { grid-template-columns: 1fr; gap: 32px; }
+  .contact-form-wrap { padding: 20px; }
+}
+
+.contact-volunteer { padding: 56px 0; }
+.contact-volunteer-content { max-width: 560px; margin: 0 auto; text-align: center; }
+.contact-volunteer-title { font-size: 40px; margin-bottom: 12px; }
+.contact-volunteer-text { font-size: 18px; color: var(--wb-text-sub); line-height: 1.7; margin-bottom: 20px; }
+.btn-volunteer-contact { display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; background: var(--c-teal); color: #fff; font-family: var(--font-clean); font-size: 15px; font-weight: 600; border: none; border-radius: 24px; cursor: pointer; transition: background 0.2s, transform 0.15s; text-decoration: none; }
+.btn-volunteer-contact:hover { background: #178a64; transform: translateY(-1px); }
