@@ -26,10 +26,10 @@ import schoolAscend from '../assets/school-ascend.png';
 import './About.css';
 
 const teamMembers = [
-  { name: 'Adeola Aderin', role: 'Executive Director', image: adeolaImg, color: '#E24B4A' },
-  { name: 'Kimolyn Massop', role: 'Head Coordinator', image: kimolynImg, color: '#378ADD' },
-  { name: 'Yvonne Perez', role: 'Head Coordinator', image: yvonneImg, color: '#639922' },
-  { name: 'Tremayne Burchette', role: 'Activity Specialist', image: tremayneImg, color: '#7F77DD' },
+  { name: 'Adeola Aderin', role: 'Chief Executive Officer', image: adeolaImg, color: '#E24B4A' },
+  { name: 'Kimolyn Massop', role: 'Human Resources Personnel', image: kimolynImg, color: '#378ADD' },
+  { name: 'Yvonne Perez', role: 'Program Site Director', image: yvonneImg, color: '#639922' },
+  { name: 'Tremayne Burchette', role: 'Program Site Director', image: tremayneImg, color: '#7F77DD' },
 ];
 
 const programs = [
