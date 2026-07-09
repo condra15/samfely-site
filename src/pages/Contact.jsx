@@ -18,7 +18,7 @@ export default function Contact() {
             <div className="contact-info">
               <div className="contact-block">
                 <h3 className="contact-block-title chalk-subheading" style={{color:'var(--c-blue)'}}>Email</h3>
-                <a href="mailto:yetuna@samfely.org" className="contact-link">yetuna@samfely.org</a>
+                <a href="mailto:kmassop@samfely.org" className="contact-link">kmassop@samfely.org</a>
                 <a href="mailto:hbabalola@samfely.org" className="contact-link">hbabalola@samfely.org</a>
               </div>
               <div className="contact-block">

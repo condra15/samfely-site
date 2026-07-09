@@ -68,7 +68,7 @@ export default function About() {
           <div className="story-body">
             <h2 className="story-sub chalk-heading">What does Samfely mean?</h2>
             <p>Samfely takes its name from two extraordinary people: <strong>Samuel</strong>, a bishop, and <strong>Felicia</strong>, a devoted schoolteacher, a husband and wife whose lives in Nigeria were a living testament to faith, education, and unconditional love for family and community. Together, they championed that every person, regardless of race, religion, or circumstance, deserves to be supported, educated, and seen.</p>
-            <p>When Felicia passed in 2017, her daughter Adeola and Samuel founded Samfely in her honor, rooting the organization in everything Felicia stood for and everything Samuel always believed in. Though both Samuel and Felicia have since passed, their legacy is not gone. It shows up every afternoon in Brooklyn, in every child who feels safe enough to learn, every family that feels supported, and every student who discovers what they are truly capable of.</p>
+            <p>When Felicia passed in 2015, her granddaughter Adeola and Samuel founded Samfely in her honor, rooting the organization in everything Felicia stood for and everything Samuel always believed in. Though both Samuel and Felicia have since passed, their legacy is not gone. It shows up every afternoon in Brooklyn, in every child who feels safe enough to learn, every family that feels supported, and every student who discovers what they are truly capable of.</p>
             <p><strong>Samfely is their story, continued.</strong></p>
             <h2 className="story-sub chalk-heading" style={{ marginTop: '40px' }}>Who we are</h2>
             <p>Samfely is a women-owned and women-run afterschool organization serving K–8 students across two Brooklyn locations. Since 2017, we have built a community rooted in warmth, accountability, and genuine love for the families we serve.</p>
@@ -114,7 +114,7 @@ export default function About() {
       <section className="robotics section-wb-alt">
         <div className="container">
           <h2 className="section-title chalk-heading"><RainbowText text="Robotics in action" /></h2>
-          <p className="robotics-subtitle">Through our partnership with RoboFun, Samfely scholars build, program, and dance with robots. Fox 5 NY came to see it for themselves.</p>
+          <p className="robotics-subtitle">Through our partnership with RoboFun, Samfely scholars build, program, and dance with robots. Here is Fox 5 NY letting people know the cool work Robofun does.</p>
           <div className="fox5-cards">
             <a href="https://www.fox5ny.com/video/1476944" target="_blank" rel="noopener noreferrer" className="fox5-card">
               <TapeFrame colorSet={0}>
