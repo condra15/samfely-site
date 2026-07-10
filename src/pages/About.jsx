@@ -4,6 +4,7 @@ import TapeFrame from '../components/TapeFrame';
 import adeolaImg from '../assets/adeola.jpg';
 import kimolynImg from '../assets/kimolyn.jpeg';
 import yvonneImg from '../assets/yvonne.jpeg';
+import hillaryImg from '../assets/Hillary.jpeg';
 import tremayneImg from '../assets/tremayne.jpeg';
 import tiles2 from '../assets/activity-tiles-2.jpg';
 import connect4 from '../assets/activity-connect4.jpg';
@@ -27,6 +28,7 @@ import './About.css';
 
 const teamMembers = [
   { name: 'Adeola Aderin', role: 'Chief Executive Officer', image: adeolaImg, color: '#E24B4A' },
+  { name: 'Hillary Babalola', role: 'Chief Operations Officer', image: hillaryImg, color: '#E24B4A' },
   { name: 'Dr. Latoya Nugent', role: 'Content Specialist', image: latoyaNugentImg, color: '#D85A30' },
   { name: 'Kimolyn Massop', role: 'Human Resources Personnel', image: kimolynImg, color: '#378ADD' },
   { name: 'Yvonne Perez', role: 'Program Site Director', image: yvonneImg, color: '#639922' },
