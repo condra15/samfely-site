@@ -17,6 +17,7 @@ import partnerRobofun from '../assets/partner-robofun.png';
 import partnerVision from '../assets/partner-vision.png';
 import partnerZoe from '../assets/partner-zoe.png';
 import partnerLwc from '../assets/partner-lwc.png';
+import concordeImg from '../assets/CONCORDE.png';
 import schoolPs92 from '../assets/school-ps92.png';
 import schoolPs397 from '../assets/school-ps397.png';
 import schoolPs249 from '../assets/school-ps249.png';
@@ -47,6 +48,7 @@ const partners = [
   { name: 'Vision Education & Media', image: partnerVision, url: null },
   { name: 'Inspired By Zoe', image: partnerZoe, url: 'https://www.instagram.com/inspiredbyzoey/' },
   { name: 'Lifting While Climbing', image: partnerLwc, url: 'https://www.liftingwhileclimbing.com' },
+  { name: 'Concorde Education', image: concordeImg, url: 'https://concordeeducation.com/' },
 ];
 
 const schools = [
