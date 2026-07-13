@@ -4,6 +4,7 @@ import TapeFrame from '../components/TapeFrame';
 import adeolaImg from '../assets/adeola.jpg';
 import kimolynImg from '../assets/kimolyn.jpeg';
 import yvonneImg from '../assets/yvonne.jpeg';
+import ericaImg from '../assets/EricaSiteDirector.jpg';
 import hillaryImg from '../assets/Hillary.jpeg';
 import tremayneImg from '../assets/tremayne.jpeg';
 import tiles2 from '../assets/activity-tiles-2.jpg';
@@ -18,6 +19,7 @@ import partnerVision from '../assets/partner-vision.png';
 import partnerZoe from '../assets/partner-zoe.png';
 import partnerLwc from '../assets/partner-lwc.png';
 import concordeImg from '../assets/CONCORDE.png';
+import schoolPs6 from '../assets/school-ps6.png';
 import schoolPs92 from '../assets/school-ps92.png';
 import schoolPs397 from '../assets/school-ps397.png';
 import schoolPs249 from '../assets/school-ps249.png';
@@ -34,6 +36,7 @@ const teamMembers = [
   { name: 'Kimolyn Massop', role: 'Human Resources Personnel', image: kimolynImg, color: '#378ADD' },
   { name: 'Yvonne Perez', role: 'Program Site Director', image: yvonneImg, color: '#639922' },
   { name: 'Tremayne Burchette', role: 'Program Site Director', image: tremayneImg, color: '#7F77DD' },
+  { name: 'Erica Gerald', role: 'Program Site Director', image: ericaImg, color: '#639922' },
 ];
 
 const programs = [
@@ -45,13 +48,14 @@ const programs = [
 
 const partners = [
   { name: 'RoboFun', image: partnerRobofun, url: 'https://docs.google.com/presentation/d/1GiKBG9KE3Xmsc-vyl0ivZ7aYZ3Zkz1z44KGj9_XRhgk/edit?slide=id.p1' },
-  { name: 'Vision Education & Media', image: partnerVision, url: null },
+  { name: 'Vision Education & Media', image: partnerVision, url: 'https://docs.google.com/presentation/d/1GiKBG9KE3Xmsc-vyl0ivZ7aYZ3Zkz1z44KGj9_XRhgk/edit?slide=id.p1'  },
   { name: 'Inspired By Zoe', image: partnerZoe, url: 'https://www.instagram.com/inspiredbyzoey/' },
   { name: 'Lifting While Climbing', image: partnerLwc, url: 'https://www.liftingwhileclimbing.com' },
   { name: 'Concorde Education', image: concordeImg, url: 'https://concordeeducation.com/' },
 ];
 
 const schools = [
+  { name: 'PS 6', image: schoolPs6 },
   { name: 'PS 92', image: schoolPs92 },
   { name: 'PS 397 Foster-Laurie', image: schoolPs397 },
   { name: 'PS 249 The Caton School', image: schoolPs249 },
@@ -127,10 +131,11 @@ export default function About() {
               </TapeFrame>
               <span className="fox5-label chalk-subheading">Watch on Fox 5 NY →</span>
             </a>
-            <a href="https://www.fox5ny.com/video/1476944" target="_blank" rel="noopener noreferrer" className="fox5-card">
+            <a href="https://docs.google.com/presentation/d/1GiKBG9KE3Xmsc-vyl0ivZ7aYZ3Zkz1z44KGj9_XRhgk/edit?slide=id.p1" target="_blank" rel="noopener noreferrer" className="fox5-card">
               <TapeFrame colorSet={2}>
                 <img src={fox5Robots} alt="Scholar programming robots with laptop" className="fox5-img" />
               </TapeFrame>
+              <span className="fox5-label chalk-subheading">Learn more about Robofun →</span>
             </a>
           </div>
         </div>
