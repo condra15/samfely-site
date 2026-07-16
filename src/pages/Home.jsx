@@ -7,12 +7,12 @@ import aquariumImg from '../assets/aquarium.jpg';
 import kidsImg from '../assets/kids-group.jpg';
 import faqImg from '../assets/faq.jpg';
 import logoImg from '../assets/logo.png';
-import tiles1 from '../assets/activity-tiles-1.jpg';
-import tiles3 from '../assets/activity-tiles-3.jpg';
-import tiles4 from '../assets/activity-tiles-4.jpg';
-import connect4 from '../assets/activity-connect4.jpg';
-import artProject from '../assets/art-project.jpg';
-import homework from '../assets/homework.jpg';
+import tiles1 from '../assets/blurred-activity-tiles-1.jpg';
+import tiles3 from '../assets/blurred-activity-tiles-3.jpg';
+import tiles4 from '../assets/blurred-activity-tiles-4.jpg';
+import connect4 from '../assets/blurred-activity-connect4.jpg';
+import artProject from '../assets/blurred-art-project.jpg';
+import homework from '../assets/blurred-homework.jpg';
 import './Home.css';
 
 function FAQItem({ question, answer }) {
