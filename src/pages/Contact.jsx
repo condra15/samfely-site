@@ -48,7 +48,7 @@ export default function Contact() {
         <div className="container contact-volunteer-content">
           <h2 className="contact-volunteer-title chalk-heading"><RainbowText text="Want to volunteer?" /></h2>
           <p className="contact-volunteer-text">Love working with kids? We're always looking for caring people to mentor, tutor, and inspire our scholars. A few hours a week can change a child's trajectory.</p>
-          <a href="https://docs.google.com/forms/d/e/YOUR_VOLUNTEER_FORM_ID/viewform" className="btn-volunteer-contact" target="_blank" rel="noopener noreferrer">Sign up to volunteer</a>
+          <a href="https://forms.gle/WQihAnkFv8xNRhEb7" className="btn-volunteer-contact" target="_blank" rel="noopener noreferrer">Sign up to volunteer</a>
         </div>
       </section>
     </div>

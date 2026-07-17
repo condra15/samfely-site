@@ -26,7 +26,7 @@ export default function Footer() {
             <a href="mailto:kmassop@samfely.org" className="footer-link">kmassop@samfely.org</a>
             <a href="tel:+16469324778" className="footer-link">(646) 932-4778</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqaDDM6_VE82kpKdMeB6MzzeosbjTRSxlKp6bc7NaPeMVHNg/viewform" className="footer-link footer-enrollment-link" target="_blank" rel="noopener noreferrer">Enrollment form</a>
-            <a href="https://docs.google.com/forms/d/e/YOUR_VOLUNTEER_FORM_ID/viewform" className="footer-link footer-volunteer-link" target="_blank" rel="noopener noreferrer">Volunteer with us</a>
+            <a href="https://forms.gle/WQihAnkFv8xNRhEb7" className="footer-link footer-volunteer-link" target="_blank" rel="noopener noreferrer">Volunteer with us</a>
           </div>
         </div>
         <div className="footer-bottom"><p>&copy; {new Date().getFullYear()} Samfely. All rights reserved.</p></div>

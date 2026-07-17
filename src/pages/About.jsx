@@ -216,7 +216,7 @@ export default function About() {
           <h2 className="volunteer-title chalk-heading"><RainbowText text="Change a child's day" /></h2>
           <p className="volunteer-text">Every afternoon, our scholars walk through the door looking for a mentor, a role model, someone who believes in them. You could be that person. Whether you help with homework, lead a creative project, or simply show up and listen — your time changes lives.</p>
           <p className="volunteer-text"><strong>No experience needed. Just a big heart and a few hours a week.</strong></p>
-          <a href="https://docs.google.com/forms/d/e/YOUR_VOLUNTEER_FORM_ID/viewform" className="btn-volunteer" target="_blank" rel="noopener noreferrer">Become a volunteer</a>
+          <a href="https://forms.gle/WQihAnkFv8xNRhEb7" className="btn-volunteer" target="_blank" rel="noopener noreferrer">Become a volunteer</a>
         </div>
       </section>
     </div>
