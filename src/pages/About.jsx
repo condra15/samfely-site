@@ -9,6 +9,7 @@ import hillaryImg from '../assets/Hillary.jpeg';
 import tremayneImg from '../assets/tremayne.jpeg';
 import tiles2 from '../assets/blurred-activity-tiles-2.jpg';
 import connect4 from '../assets/blurred-activity-connect4.jpg';
+import chrisImg from '../assets/Chris.jpeg';
 import latoyaNugentImg from '../assets/latoyaNugent.png';
 import caitlinDignanImg from '../assets/Caitlin.jpeg';
 import homework from '../assets/blurred-homework.jpg';
@@ -33,6 +34,7 @@ import './About.css';
 const teamMembers = [
   { name: 'Adeola Aderin', role: 'Chief Executive Officer', image: adeolaImg, color: '#E24B4A' },
   { name: 'Hillary Babalola', role: 'Chief Operations Officer', image: hillaryImg, color: '#7F77DD' },
+  { name: 'Chris Yankah', role: 'Chief Technology Officer', image: chrisImg, color: '#7F77DD' },
   { name: 'Dr. Latoya Nugent', role: 'Content Specialist', image: latoyaNugentImg, color: '#D85A30' },
   { name: 'Caitlin Dignan', role: 'Content Specialist', image: caitlinDignanImg, color: '#D85A30' },
   { name: 'Kimolyn Massop', role: 'Human Resources Personnel', image: kimolynImg, color: '#378ADD' },
