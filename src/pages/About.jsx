@@ -10,6 +10,7 @@ import tremayneImg from '../assets/tremayne.jpeg';
 import tiles2 from '../assets/blurred-activity-tiles-2.jpg';
 import connect4 from '../assets/blurred-activity-connect4.jpg';
 import latoyaNugentImg from '../assets/latoyaNugent.png';
+import caitlinDignanImg from '../assets/Caitlin.jpeg';
 import homework from '../assets/blurred-homework.jpg';
 import artProject from '../assets/blurred-art-project.jpg';
 import fox5Teacher from '../assets/fox5-teacher.png';
@@ -31,11 +32,12 @@ import './About.css';
 
 const teamMembers = [
   { name: 'Adeola Aderin', role: 'Chief Executive Officer', image: adeolaImg, color: '#E24B4A' },
-  { name: 'Hillary Babalola', role: 'Chief Operations Officer', image: hillaryImg, color: '#E24B4A' },
+  { name: 'Hillary Babalola', role: 'Chief Operations Officer', image: hillaryImg, color: '#7F77DD' },
   { name: 'Dr. Latoya Nugent', role: 'Content Specialist', image: latoyaNugentImg, color: '#D85A30' },
+  { name: 'Caitlin Dignan', role: 'Content Specialist', image: caitlinDignanImg, color: '#D85A30' },
   { name: 'Kimolyn Massop', role: 'Human Resources Personnel', image: kimolynImg, color: '#378ADD' },
   { name: 'Yvonne Perez', role: 'Program Site Director', image: yvonneImg, color: '#639922' },
-  { name: 'Tremayne Burchette', role: 'Program Site Director', image: tremayneImg, color: '#7F77DD' },
+  { name: 'Tremayne Burchette', role: 'Program Site Director', image: tremayneImg, color: '#639922' },
   { name: 'Erica Gerald', role: 'Program Site Director', image: ericaImg, color: '#639922' },
 ];
 

@@ -23,8 +23,7 @@ export default function Contact() {
               </div>
               <div className="contact-block">
                 <h3 className="contact-block-title chalk-subheading" style={{color:'var(--c-green)'}}>Phone</h3>
-                <a href="tel:+16469324778" className="contact-link">Executive Director: (646) 932-4778</a>
-                <a href="tel:+16466420027" className="contact-link">Assistant Director: (646) 642-0027</a>
+                <a href="tel:+16469324778" className="contact-link">Call us: (718) 708-1990</a>
               </div>
               <div className="contact-block">
                 <h3 className="contact-block-title chalk-subheading" style={{color:'var(--c-coral)'}}>Visit us</h3>

@@ -24,7 +24,7 @@ export default function Footer() {
           <div className="footer-col">
             <h4 className="footer-col-title">Get in touch</h4>
             <a href="mailto:kmassop@samfely.org" className="footer-link">kmassop@samfely.org</a>
-            <a href="tel:+16469324778" className="footer-link">(646) 932-4778</a>
+            <a href="tel:+16469324778" className="footer-link">(718) 708-1990</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqaDDM6_VE82kpKdMeB6MzzeosbjTRSxlKp6bc7NaPeMVHNg/viewform" className="footer-link footer-enrollment-link" target="_blank" rel="noopener noreferrer">Enrollment form</a>
             <a href="https://forms.gle/WQihAnkFv8xNRhEb7" className="footer-link footer-volunteer-link" target="_blank" rel="noopener noreferrer">Volunteer with us</a>
           </div>
